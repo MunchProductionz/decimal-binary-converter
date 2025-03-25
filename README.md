@@ -3,6 +3,8 @@ Python packge for converting decimal numbers into binary.
 
 This package is used to provide an example of how to create a Python package. ✨
 
+View it on [PyPi](https://pypi.org/project/simple-example-package-of-decimal-binary-converter/0.0.1/).
+
 ---
 
 ### How to make the package available 🙌
