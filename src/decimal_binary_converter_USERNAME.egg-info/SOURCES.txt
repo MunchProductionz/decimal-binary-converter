@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/decimal_binary_converter/__init__.py
+src/decimal_binary_converter/converter.py
+src/decimal_binary_converter_USERNAME.egg-info/PKG-INFO
+src/decimal_binary_converter_USERNAME.egg-info/SOURCES.txt
+src/decimal_binary_converter_USERNAME.egg-info/dependency_links.txt
+src/decimal_binary_converter_USERNAME.egg-info/top_level.txt
+tests/test_converter.py

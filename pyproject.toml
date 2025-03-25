@@ -4,9 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "decimal_binary_converter"
-version = "0.1.0"
-authors = [{ name = "Name", email = "Email ID" }]
-description = "long description here"
+version = "0.0.1"
+authors = [
+    { name = "Example Author", email = "author@example.com" }
+]
+description = "Package for converting decimal numbers into binary numbers"
 readme = "README.md"
+requires-python = ">=3.8"
 license = { file = "LICENSE" }
-dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+Homepage = "https://github.com/MunchProductionz/decimal-binary-converter"
