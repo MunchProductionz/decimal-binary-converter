@@ -18,6 +18,7 @@ Run the following commands:
 2. Build source code and binary distribution wheel using: `python -m build`.
 3. A: Upload the distribution wheel to the Test Python Package Index using: `twine upload --repository testpypi dist/*`. (Requires an API Key. Get it by [registering an account](https://test.pypi.org/manage/unverified-account/?next=%2Fmanage%2Faccount%2F#api-tokens)).
 4. B: Upload the distribution wheel to the Python Package Index using: `twine upload dist/*`.
+5. Install the package using `pip install <your-package>`.
 
 ---
 
